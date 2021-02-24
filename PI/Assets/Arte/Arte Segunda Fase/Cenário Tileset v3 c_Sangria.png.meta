@@ -1,0 +1,5622 @@
+fileFormatVersion: 2
+guid: 5a67befa0c28edf448dbe6dd086c4718
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "Cen\xE1rio Tileset v3 c_Sangria_0"
+    21300002: "Cen\xE1rio Tileset v3 c_Sangria_1"
+    21300004: "Cen\xE1rio Tileset v3 c_Sangria_2"
+    21300006: "Cen\xE1rio Tileset v3 c_Sangria_3"
+    21300008: "Cen\xE1rio Tileset v3 c_Sangria_4"
+    21300010: "Cen\xE1rio Tileset v3 c_Sangria_5"
+    21300012: "Cen\xE1rio Tileset v3 c_Sangria_6"
+    21300014: "Cen\xE1rio Tileset v3 c_Sangria_7"
+    21300016: "Cen\xE1rio Tileset v3 c_Sangria_8"
+    21300018: "Cen\xE1rio Tileset v3 c_Sangria_9"
+    21300020: "Cen\xE1rio Tileset v3 c_Sangria_10"
+    21300022: "Cen\xE1rio Tileset v3 c_Sangria_11"
+    21300024: "Cen\xE1rio Tileset v3 c_Sangria_12"
+    21300026: "Cen\xE1rio Tileset v3 c_Sangria_13"
+    21300028: "Cen\xE1rio Tileset v3 c_Sangria_14"
+    21300030: "Cen\xE1rio Tileset v3 c_Sangria_15"
+    21300032: "Cen\xE1rio Tileset v3 c_Sangria_16"
+    21300034: "Cen\xE1rio Tileset v3 c_Sangria_17"
+    21300036: "Cen\xE1rio Tileset v3 c_Sangria_18"
+    21300038: "Cen\xE1rio Tileset v3 c_Sangria_19"
+    21300040: "Cen\xE1rio Tileset v3 c_Sangria_20"
+    21300042: "Cen\xE1rio Tileset v3 c_Sangria_21"
+    21300044: "Cen\xE1rio Tileset v3 c_Sangria_22"
+    21300046: "Cen\xE1rio Tileset v3 c_Sangria_23"
+    21300048: "Cen\xE1rio Tileset v3 c_Sangria_24"
+    21300050: "Cen\xE1rio Tileset v3 c_Sangria_25"
+    21300052: "Cen\xE1rio Tileset v3 c_Sangria_26"
+    21300054: "Cen\xE1rio Tileset v3 c_Sangria_27"
+    21300056: "Cen\xE1rio Tileset v3 c_Sangria_28"
+    21300058: "Cen\xE1rio Tileset v3 c_Sangria_29"
+    21300060: "Cen\xE1rio Tileset v3 c_Sangria_30"
+    21300062: "Cen\xE1rio Tileset v3 c_Sangria_31"
+    21300064: "Cen\xE1rio Tileset v3 c_Sangria_32"
+    21300066: "Cen\xE1rio Tileset v3 c_Sangria_33"
+    21300068: "Cen\xE1rio Tileset v3 c_Sangria_34"
+    21300070: "Cen\xE1rio Tileset v3 c_Sangria_35"
+    21300072: "Cen\xE1rio Tileset v3 c_Sangria_36"
+    21300074: "Cen\xE1rio Tileset v3 c_Sangria_37"
+    21300076: "Cen\xE1rio Tileset v3 c_Sangria_38"
+    21300078: "Cen\xE1rio Tileset v3 c_Sangria_39"
+    21300080: "Cen\xE1rio Tileset v3 c_Sangria_40"
+    21300082: "Cen\xE1rio Tileset v3 c_Sangria_41"
+    21300084: "Cen\xE1rio Tileset v3 c_Sangria_42"
+    21300086: "Cen\xE1rio Tileset v3 c_Sangria_43"
+    21300088: "Cen\xE1rio Tileset v3 c_Sangria_44"
+    21300090: "Cen\xE1rio Tileset v3 c_Sangria_45"
+    21300092: "Cen\xE1rio Tileset v3 c_Sangria_46"
+    21300094: "Cen\xE1rio Tileset v3 c_Sangria_47"
+    21300096: "Cen\xE1rio Tileset v3 c_Sangria_48"
+    21300098: "Cen\xE1rio Tileset v3 c_Sangria_49"
+    21300100: "Cen\xE1rio Tileset v3 c_Sangria_50"
+    21300102: "Cen\xE1rio Tileset v3 c_Sangria_51"
+    21300104: "Cen\xE1rio Tileset v3 c_Sangria_52"
+    21300106: "Cen\xE1rio Tileset v3 c_Sangria_53"
+    21300108: "Cen\xE1rio Tileset v3 c_Sangria_54"
+    21300110: "Cen\xE1rio Tileset v3 c_Sangria_55"
+    21300112: "Cen\xE1rio Tileset v3 c_Sangria_56"
+    21300114: "Cen\xE1rio Tileset v3 c_Sangria_57"
+    21300116: "Cen\xE1rio Tileset v3 c_Sangria_58"
+    21300118: "Cen\xE1rio Tileset v3 c_Sangria_59"
+    21300120: "Cen\xE1rio Tileset v3 c_Sangria_60"
+    21300122: "Cen\xE1rio Tileset v3 c_Sangria_61"
+    21300124: "Cen\xE1rio Tileset v3 c_Sangria_62"
+    21300126: "Cen\xE1rio Tileset v3 c_Sangria_63"
+    21300128: "Cen\xE1rio Tileset v3 c_Sangria_64"
+    21300130: "Cen\xE1rio Tileset v3 c_Sangria_65"
+    21300132: "Cen\xE1rio Tileset v3 c_Sangria_66"
+    21300134: "Cen\xE1rio Tileset v3 c_Sangria_67"
+    21300136: "Cen\xE1rio Tileset v3 c_Sangria_68"
+    21300138: "Cen\xE1rio Tileset v3 c_Sangria_69"
+    21300140: "Cen\xE1rio Tileset v3 c_Sangria_70"
+    21300142: "Cen\xE1rio Tileset v3 c_Sangria_71"
+    21300144: "Cen\xE1rio Tileset v3 c_Sangria_72"
+    21300146: "Cen\xE1rio Tileset v3 c_Sangria_73"
+    21300148: "Cen\xE1rio Tileset v3 c_Sangria_74"
+    21300150: "Cen\xE1rio Tileset v3 c_Sangria_75"
+    21300152: "Cen\xE1rio Tileset v3 c_Sangria_76"
+    21300154: "Cen\xE1rio Tileset v3 c_Sangria_77"
+    21300156: "Cen\xE1rio Tileset v3 c_Sangria_78"
+    21300158: "Cen\xE1rio Tileset v3 c_Sangria_79"
+    21300160: "Cen\xE1rio Tileset v3 c_Sangria_80"
+    21300162: "Cen\xE1rio Tileset v3 c_Sangria_81"
+    21300164: "Cen\xE1rio Tileset v3 c_Sangria_82"
+    21300166: "Cen\xE1rio Tileset v3 c_Sangria_83"
+    21300168: "Cen\xE1rio Tileset v3 c_Sangria_84"
+    21300170: "Cen\xE1rio Tileset v3 c_Sangria_85"
+    21300172: "Cen\xE1rio Tileset v3 c_Sangria_86"
+    21300174: "Cen\xE1rio Tileset v3 c_Sangria_87"
+    21300176: "Cen\xE1rio Tileset v3 c_Sangria_88"
+    21300178: "Cen\xE1rio Tileset v3 c_Sangria_89"
+    21300180: "Cen\xE1rio Tileset v3 c_Sangria_90"
+    21300182: "Cen\xE1rio Tileset v3 c_Sangria_91"
+    21300184: "Cen\xE1rio Tileset v3 c_Sangria_92"
+    21300186: "Cen\xE1rio Tileset v3 c_Sangria_93"
+    21300188: "Cen\xE1rio Tileset v3 c_Sangria_94"
+    21300190: "Cen\xE1rio Tileset v3 c_Sangria_95"
+    21300192: "Cen\xE1rio Tileset v3 c_Sangria_96"
+    21300194: "Cen\xE1rio Tileset v3 c_Sangria_97"
+    21300196: "Cen\xE1rio Tileset v3 c_Sangria_98"
+    21300198: "Cen\xE1rio Tileset v3 c_Sangria_99"
+    21300200: "Cen\xE1rio Tileset v3 c_Sangria_100"
+    21300202: "Cen\xE1rio Tileset v3 c_Sangria_101"
+    21300204: "Cen\xE1rio Tileset v3 c_Sangria_102"
+    21300206: "Cen\xE1rio Tileset v3 c_Sangria_103"
+    21300208: "Cen\xE1rio Tileset v3 c_Sangria_104"
+    21300210: "Cen\xE1rio Tileset v3 c_Sangria_105"
+    21300212: "Cen\xE1rio Tileset v3 c_Sangria_106"
+    21300214: "Cen\xE1rio Tileset v3 c_Sangria_107"
+    21300216: "Cen\xE1rio Tileset v3 c_Sangria_108"
+    21300218: "Cen\xE1rio Tileset v3 c_Sangria_109"
+    21300220: "Cen\xE1rio Tileset v3 c_Sangria_110"
+    21300222: "Cen\xE1rio Tileset v3 c_Sangria_111"
+    21300224: "Cen\xE1rio Tileset v3 c_Sangria_112"
+    21300226: "Cen\xE1rio Tileset v3 c_Sangria_113"
+    21300228: "Cen\xE1rio Tileset v3 c_Sangria_114"
+    21300230: "Cen\xE1rio Tileset v3 c_Sangria_115"
+    21300232: "Cen\xE1rio Tileset v3 c_Sangria_116"
+    21300234: "Cen\xE1rio Tileset v3 c_Sangria_117"
+    21300236: "Cen\xE1rio Tileset v3 c_Sangria_118"
+    21300238: "Cen\xE1rio Tileset v3 c_Sangria_119"
+    21300240: "Cen\xE1rio Tileset v3 c_Sangria_120"
+    21300242: "Cen\xE1rio Tileset v3 c_Sangria_121"
+    21300244: "Cen\xE1rio Tileset v3 c_Sangria_122"
+    21300246: "Cen\xE1rio Tileset v3 c_Sangria_123"
+    21300248: "Cen\xE1rio Tileset v3 c_Sangria_124"
+    21300250: "Cen\xE1rio Tileset v3 c_Sangria_125"
+    21300252: "Cen\xE1rio Tileset v3 c_Sangria_126"
+    21300254: "Cen\xE1rio Tileset v3 c_Sangria_127"
+    21300256: "Cen\xE1rio Tileset v3 c_Sangria_128"
+    21300258: "Cen\xE1rio Tileset v3 c_Sangria_129"
+    21300260: "Cen\xE1rio Tileset v3 c_Sangria_130"
+    21300262: "Cen\xE1rio Tileset v3 c_Sangria_131"
+    21300264: "Cen\xE1rio Tileset v3 c_Sangria_132"
+    21300266: "Cen\xE1rio Tileset v3 c_Sangria_133"
+    21300268: "Cen\xE1rio Tileset v3 c_Sangria_134"
+    21300270: "Cen\xE1rio Tileset v3 c_Sangria_135"
+    21300272: "Cen\xE1rio Tileset v3 c_Sangria_136"
+    21300274: "Cen\xE1rio Tileset v3 c_Sangria_137"
+    21300276: "Cen\xE1rio Tileset v3 c_Sangria_138"
+    21300278: "Cen\xE1rio Tileset v3 c_Sangria_139"
+    21300280: "Cen\xE1rio Tileset v3 c_Sangria_140"
+    21300282: "Cen\xE1rio Tileset v3 c_Sangria_141"
+    21300284: "Cen\xE1rio Tileset v3 c_Sangria_142"
+    21300286: "Cen\xE1rio Tileset v3 c_Sangria_143"
+    21300288: "Cen\xE1rio Tileset v3 c_Sangria_144"
+    21300290: "Cen\xE1rio Tileset v3 c_Sangria_145"
+    21300292: "Cen\xE1rio Tileset v3 c_Sangria_146"
+    21300294: "Cen\xE1rio Tileset v3 c_Sangria_147"
+    21300296: "Cen\xE1rio Tileset v3 c_Sangria_148"
+    21300298: "Cen\xE1rio Tileset v3 c_Sangria_149"
+    21300300: "Cen\xE1rio Tileset v3 c_Sangria_150"
+    21300302: "Cen\xE1rio Tileset v3 c_Sangria_151"
+    21300304: "Cen\xE1rio Tileset v3 c_Sangria_152"
+    21300306: "Cen\xE1rio Tileset v3 c_Sangria_153"
+    21300308: "Cen\xE1rio Tileset v3 c_Sangria_154"
+    21300310: "Cen\xE1rio Tileset v3 c_Sangria_155"
+    21300312: "Cen\xE1rio Tileset v3 c_Sangria_156"
+    21300314: "Cen\xE1rio Tileset v3 c_Sangria_157"
+    21300316: "Cen\xE1rio Tileset v3 c_Sangria_158"
+    21300318: "Cen\xE1rio Tileset v3 c_Sangria_159"
+    21300320: "Cen\xE1rio Tileset v3 c_Sangria_160"
+    21300322: "Cen\xE1rio Tileset v3 c_Sangria_161"
+    21300324: "Cen\xE1rio Tileset v3 c_Sangria_162"
+    21300326: "Cen\xE1rio Tileset v3 c_Sangria_163"
+    21300328: "Cen\xE1rio Tileset v3 c_Sangria_164"
+    21300330: "Cen\xE1rio Tileset v3 c_Sangria_165"
+    21300332: "Cen\xE1rio Tileset v3 c_Sangria_166"
+    21300334: "Cen\xE1rio Tileset v3 c_Sangria_167"
+    21300336: "Cen\xE1rio Tileset v3 c_Sangria_168"
+    21300338: "Cen\xE1rio Tileset v3 c_Sangria_169"
+    21300340: "Cen\xE1rio Tileset v3 c_Sangria_170"
+    21300342: "Cen\xE1rio Tileset v3 c_Sangria_171"
+    21300344: "Cen\xE1rio Tileset v3 c_Sangria_172"
+    21300346: "Cen\xE1rio Tileset v3 c_Sangria_173"
+    21300348: "Cen\xE1rio Tileset v3 c_Sangria_174"
+    21300350: "Cen\xE1rio Tileset v3 c_Sangria_175"
+    21300352: "Cen\xE1rio Tileset v3 c_Sangria_176"
+    21300354: "Cen\xE1rio Tileset v3 c_Sangria_177"
+    21300356: "Cen\xE1rio Tileset v3 c_Sangria_178"
+    21300358: "Cen\xE1rio Tileset v3 c_Sangria_179"
+    21300360: "Cen\xE1rio Tileset v3 c_Sangria_180"
+    21300362: "Cen\xE1rio Tileset v3 c_Sangria_181"
+    21300364: "Cen\xE1rio Tileset v3 c_Sangria_182"
+    21300366: "Cen\xE1rio Tileset v3 c_Sangria_183"
+    21300368: "Cen\xE1rio Tileset v3 c_Sangria_184"
+    21300370: "Cen\xE1rio Tileset v3 c_Sangria_185"
+    21300372: "Cen\xE1rio Tileset v3 c_Sangria_186"
+    21300374: "Cen\xE1rio Tileset v3 c_Sangria_187"
+    21300376: "Cen\xE1rio Tileset v3 c_Sangria_188"
+    21300378: "Cen\xE1rio Tileset v3 c_Sangria_189"
+    21300380: "Cen\xE1rio Tileset v3 c_Sangria_190"
+    21300382: "Cen\xE1rio Tileset v3 c_Sangria_191"
+    21300384: "Cen\xE1rio Tileset v3 c_Sangria_192"
+    21300386: "Cen\xE1rio Tileset v3 c_Sangria_193"
+    21300388: "Cen\xE1rio Tileset v3 c_Sangria_194"
+    21300390: "Cen\xE1rio Tileset v3 c_Sangria_195"
+    21300392: "Cen\xE1rio Tileset v3 c_Sangria_196"
+    21300394: "Cen\xE1rio Tileset v3 c_Sangria_197"
+    21300396: "Cen\xE1rio Tileset v3 c_Sangria_198"
+    21300398: "Cen\xE1rio Tileset v3 c_Sangria_199"
+    21300400: "Cen\xE1rio Tileset v3 c_Sangria_200"
+    21300402: "Cen\xE1rio Tileset v3 c_Sangria_201"
+    21300404: "Cen\xE1rio Tileset v3 c_Sangria_202"
+    21300406: "Cen\xE1rio Tileset v3 c_Sangria_203"
+    21300408: "Cen\xE1rio Tileset v3 c_Sangria_204"
+    21300410: "Cen\xE1rio Tileset v3 c_Sangria_205"
+    21300412: "Cen\xE1rio Tileset v3 c_Sangria_206"
+    21300414: "Cen\xE1rio Tileset v3 c_Sangria_207"
+    21300416: "Cen\xE1rio Tileset v3 c_Sangria_208"
+    21300418: "Cen\xE1rio Tileset v3 c_Sangria_209"
+    21300420: "Cen\xE1rio Tileset v3 c_Sangria_210"
+    21300422: "Cen\xE1rio Tileset v3 c_Sangria_211"
+    21300424: "Cen\xE1rio Tileset v3 c_Sangria_212"
+    21300426: "Cen\xE1rio Tileset v3 c_Sangria_213"
+    21300428: "Cen\xE1rio Tileset v3 c_Sangria_214"
+    21300430: "Cen\xE1rio Tileset v3 c_Sangria_215"
+    21300432: "Cen\xE1rio Tileset v3 c_Sangria_216"
+    21300434: "Cen\xE1rio Tileset v3 c_Sangria_217"
+    21300436: "Cen\xE1rio Tileset v3 c_Sangria_218"
+    21300438: "Cen\xE1rio Tileset v3 c_Sangria_219"
+    21300440: "Cen\xE1rio Tileset v3 c_Sangria_220"
+    21300442: "Cen\xE1rio Tileset v3 c_Sangria_221"
+    21300444: "Cen\xE1rio Tileset v3 c_Sangria_222"
+    21300446: "Cen\xE1rio Tileset v3 c_Sangria_223"
+    21300448: "Cen\xE1rio Tileset v3 c_Sangria_224"
+    21300450: "Cen\xE1rio Tileset v3 c_Sangria_225"
+    21300452: "Cen\xE1rio Tileset v3 c_Sangria_226"
+    21300454: "Cen\xE1rio Tileset v3 c_Sangria_227"
+    21300456: "Cen\xE1rio Tileset v3 c_Sangria_228"
+    21300458: "Cen\xE1rio Tileset v3 c_Sangria_229"
+    21300460: "Cen\xE1rio Tileset v3 c_Sangria_230"
+    21300462: "Cen\xE1rio Tileset v3 c_Sangria_231"
+    21300464: "Cen\xE1rio Tileset v3 c_Sangria_232"
+    21300466: "Cen\xE1rio Tileset v3 c_Sangria_233"
+    21300468: "Cen\xE1rio Tileset v3 c_Sangria_234"
+    21300470: "Cen\xE1rio Tileset v3 c_Sangria_235"
+    21300472: "Cen\xE1rio Tileset v3 c_Sangria_236"
+    21300474: "Cen\xE1rio Tileset v3 c_Sangria_237"
+    21300476: "Cen\xE1rio Tileset v3 c_Sangria_238"
+    21300478: "Cen\xE1rio Tileset v3 c_Sangria_239"
+    21300480: "Cen\xE1rio Tileset v3 c_Sangria_240"
+    21300482: "Cen\xE1rio Tileset v3 c_Sangria_241"
+    21300484: "Cen\xE1rio Tileset v3 c_Sangria_242"
+    21300486: "Cen\xE1rio Tileset v3 c_Sangria_243"
+    21300488: "Cen\xE1rio Tileset v3 c_Sangria_244"
+    21300490: "Cen\xE1rio Tileset v3 c_Sangria_245"
+    21300492: "Cen\xE1rio Tileset v3 c_Sangria_246"
+    21300494: "Cen\xE1rio Tileset v3 c_Sangria_247"
+    21300496: "Cen\xE1rio Tileset v3 c_Sangria_248"
+    21300498: "Cen\xE1rio Tileset v3 c_Sangria_249"
+    21300500: "Cen\xE1rio Tileset v3 c_Sangria_250"
+    21300502: "Cen\xE1rio Tileset v3 c_Sangria_251"
+    21300504: "Cen\xE1rio Tileset v3 c_Sangria_252"
+    21300506: "Cen\xE1rio Tileset v3 c_Sangria_253"
+    21300508: "Cen\xE1rio Tileset v3 c_Sangria_254"
+    21300510: "Cen\xE1rio Tileset v3 c_Sangria_255"
+    21300512: "Cen\xE1rio Tileset v3 c_Sangria_256"
+    21300514: "Cen\xE1rio Tileset v3 c_Sangria_257"
+    21300516: "Cen\xE1rio Tileset v3 c_Sangria_258"
+    21300518: "Cen\xE1rio Tileset v3 c_Sangria_259"
+    21300520: "Cen\xE1rio Tileset v3 c_Sangria_260"
+    21300522: "Cen\xE1rio Tileset v3 c_Sangria_261"
+    21300524: "Cen\xE1rio Tileset v3 c_Sangria_262"
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_0"
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 780
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f6506e7ece6cf419d1158789bba64c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_1"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 780
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8f23a5201b66849bdf8f1c5c3a4e5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_2"
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 780
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5526ad9beb1604c469bd7d050cb5413a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_3"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 780
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14754a6a67a50b143b6f0c2800aa7767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_4"
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 780
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50cb09b91cf721e438423ab3c61f0539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_5"
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 780
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429443b13ae21274ebebc76349347627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_6"
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 780
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b63ee89a864ff4facbd5a3735a2aea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_7"
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 780
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d0b48dc3c9adf468cefa15d720af10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_8"
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 780
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d61516be67a43f47811bf8444fcbd4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_9"
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 780
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3455dd537fbfdfb49aab870bdf21cf4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_10"
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 780
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d830ee30709b547b7cc74da6e54f8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_11"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 780
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d10871f2c15c6b43a06affee6e5cdbe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_12"
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 780
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6694bb96750da1f42a1eb9f727d81db3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_13"
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 780
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0aa36ca0e2363f4699073b6412a4a48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_14"
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 780
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7154ad4862c167a44b8f826c093a17b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_15"
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 780
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e98aa7ea4d644448b5ef90ec06ea8d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_16"
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 780
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2be7c31dfc652b4884049d73f82a10a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_17"
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 780
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f7be020e6f851498a77e9806d6f777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_18"
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 728
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef18b517efd91b448e20c01546e128c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_19"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 728
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7675a65c3d39dc479c70e846966cb71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_20"
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 728
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc1c7a730838074ebf0150ac7682b82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_21"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 728
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35118cb9d63da94280e5127b47c888d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_22"
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 728
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd40e11a186ad34e8625c250089684a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_23"
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 728
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7548223eeb18c6f46b4e9e7246970a23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_24"
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 728
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6c48b0b5d629448b9c6ad477082fb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_25"
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 728
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b532c927e8555043820cd3a47e85021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_26"
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 728
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a39ee4d8f384e419ef8b29738b09d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_27"
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 728
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79518198326347f4088f19a6095806f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_28"
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 728
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be03db22849da5444874b71985c0dbdd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_29"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 728
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43da23f1524b95b499b4e8cea7350328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_30"
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 728
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2dfc756c945af43ad67daeb072d439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_31"
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 728
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2892aa991ee25ac49a20262d931a4e89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_32"
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 728
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f14bc6ab31675c47b371ec09c93df65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_33"
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 728
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afaf69ec927d334f92cdce9cf6af231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_34"
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 728
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396b2755ebb367a4e960fc6d0475d185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_35"
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 728
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b73038fd94f4447a29d00b7dbce526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_36"
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 676
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32050c979e4ed714fa51669f6073a4f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_37"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 676
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc27bc3060ecc5a4e837ba0086fa3fbf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_38"
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 676
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1180fca762dbddd4985147969266ddf8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_39"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 676
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ca248bbc1622e43ba9838f28201439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_40"
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 676
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca51b834955260b48841d0afbc200143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_41"
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 676
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d948081ed2b2dbb418d985d3c502ab4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_42"
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 676
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0aa89e59fc31346890c46e52c1e52c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_43"
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 676
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8f10c895418e6479db8b5cbf60ef5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_44"
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 676
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a173c815309456745aabb4bfea3208c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_45"
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 676
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34fb5f11306c5646a06f16ff6d34b93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_46"
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 676
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6420a434b080441b53468b1c7efb18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_47"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 676
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fc378d7e991e8419c8261ed635a954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_48"
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 676
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72724745c993c284f853ef2621239746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_49"
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 676
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4abb62ef52750d40adffa6d43beb0e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_50"
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 676
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598ebd00a8c7ebe4c94f32dec0f3ca3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_51"
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 676
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54ac56b7101ba246817693ebb819057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_52"
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 676
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5214abaedbbe1f4db8477a11e2da7d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_53"
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4b044907090fa489a6ee90d97a0137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_54"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa04a58273f1e4b4596def9e9e891fef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_55"
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da27afe73a605342b3766f99863a686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_56"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820c136ad8957ee41b199e174efa8f12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_57"
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5c489cb3169d74f94ac11324325b64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_58"
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121f4fcfe3cf62a4eac8897c5fe65417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_59"
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060d3b9fdd0939344b3e3488a07840a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_60"
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2919b6ead5f3f2a48bbabfb49bec0407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_61"
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93146a3263e86c4ca835ff7b33676c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_62"
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24488d52526214740ae2d92ef02a77e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_63"
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c060dac87d774940b6d48fa0166a5cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_64"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc91482521174d4794509e98db2ce8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_65"
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01b407e418cda2468409286cd6e1766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_66"
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b928456e617c8545840e62476b41e43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_67"
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c098fd705f7e354fb64b898b0b87c54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_68"
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbf289bdcc7bbe4985a4fe9612907ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_69"
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e8c5c2cec862e4aa4f02bf7928ce8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_70"
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8b03f5bf5daed438e84bc1d478dc0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_71"
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 572
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c675562bc78f74bb4c6dd2eca0b659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_72"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 572
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e912a132bf4b2240b3ffed79241afa7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_73"
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 572
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f594239fff4d14bbd795ddfb80faef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_74"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 572
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f624afc75b0d0469559776e0858b46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_75"
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 572
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11998dbf566ed624ca201fa60e9bea1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_76"
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 572
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee17229cf9454c448e218efe59db459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_77"
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 572
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3feaf5519294d484f842650d32cc3689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_78"
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 572
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0bd895b0dc05c438aa28e1dcfafd5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_79"
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 572
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1416cdf879dafff499e898cff68576bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_80"
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 572
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab0671a4fc1c6040a2d91156ca3924a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_81"
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 572
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049c3fbf9a05f654ba47975fea9f9eea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_82"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 572
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00da824ab8659a54586999d0f849ade1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_83"
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 572
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605f2042646b57e488a4537e56c722ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_84"
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 572
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7890c832be5b5b34eb7f935822722dfe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_85"
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 572
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40f78a8f1761c142b31fa58d0603036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_86"
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 572
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419b20f39331db34cb788c4b6889aa03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_87"
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 572
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fbad9ce5655fd4e8d4722bdf72e017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_88"
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 520
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc990925c8218e4ebec54bd1c21dc8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_89"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 520
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f040398282ddf4ab6db2ed54d09fdd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_90"
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 520
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c7c048de411c54593d1b52f0385cd2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_91"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 520
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883f43d38d655a34d946b38e3566d8d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_92"
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 520
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fa512f426324a48ac576c59d83aafb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_93"
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 520
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0087b15ef17372b43b425b5dca8ded5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_94"
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 520
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdef3d64f8d2f147b5a0d944d8fdce2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_95"
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 520
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d483852b261e0c40a6d5a1d74a9ddad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_96"
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 520
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9afaaa20dd460408e72d0b44af66cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_97"
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 520
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6f5cdc02fe4cb4d9938b1acc543493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_98"
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 520
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a9d93d17837d04b9de1f56588e407a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_99"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 520
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32fa1a59e1313a4db76d599545c5266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_100"
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 520
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4606205177bc143980a3068138199d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_101"
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 520
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a043bc452f691a489239d6a42c241fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_102"
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 520
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2c7e9a98970c3419562f70e5b3cf57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_103"
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 520
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033ab133919d1ef4890c75c3944108ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_104"
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 520
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3833c665476c5ba4b97c2f265f8b4980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_105"
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 520
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8579f65ae0d9440b60147dbbf5804b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_106"
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 468
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcbf3350147d924db84befa04be782a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_107"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 468
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930ab1aa2f715d94fb243dc3208f9c9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_108"
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 468
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b484b5cc2d8a241b8ac478b144a11d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_109"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 468
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe646b52a6486984688c308b5c206292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_110"
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 468
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0466de37b73bb454a96d6f315f89635b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_111"
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 468
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1dee7f0c92a7dc4da1c1a7a0abcbae1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_112"
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 468
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35fae70194dd0d4b8440c5fd7e91b99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_113"
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 468
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ceb2202062c2d428c3f86ffc5a3349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_114"
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 468
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfdd0e4b6e093c45a933e4f93e63b7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_115"
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 468
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f76cb9e41b3274699c6b734678175d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_116"
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 468
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24704a73b591994b9797cced7698117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_117"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 468
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f310fef825491843b85259f42cdd3c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_118"
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 468
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51422e46578ee284681a65abcf6946c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_119"
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 468
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b81b0dd19b55144b58470ab4cb7e8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_120"
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 468
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a646f38fc413b4dbf2cafca729ba0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_121"
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 468
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5cc88317a670fc448b1da290a963147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_122"
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 468
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b43bb520c91a3418fbe0f63cfc24f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_123"
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 468
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6517a6759f5214841acd91889125091d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_124"
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 416
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7803f989f1a07941b02c00659f36462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_125"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 416
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0adc3e7b05d306498ef2d7f9a643809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_126"
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 416
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7862e6747301f4ea15b4a4158aa6d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_127"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d736cc7a8b5ed64780f2a602d96b6dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_128"
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 416
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1533697c96dff6409941fb60d10c3c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_129"
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 416
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8136e4ef2ffb11d4b919ac89da5bec11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_130"
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 416
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6733973e23eaf0147a7d4d97312ad7e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_131"
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 416
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c157092f5742d2b4c8d56a0089414904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_132"
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 416
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8be9c3b4bbc244e95589891ba9fa7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_133"
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 416
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93de7682af92081469be7e7552d72e0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_134"
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 416
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51776839f2e3d1442882448a6c3ac964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_135"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 416
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59123f08da006d4fa429a7e108115b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_136"
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 416
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fab15d675c63e45920f0e514497493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_137"
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 416
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39042b4e127aaf74dae90b96b79c7b5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_138"
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 416
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b52e6ddb35648848862a2a1b66c038e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_139"
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 416
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f99afd837f6416418db16b929950ad5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_140"
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 416
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f217c137c2e98f43a664f22f28bdbf1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_141"
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 416
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801ac8e18dc34254da21117cfb80c6d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_142"
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 364
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6c29a8ad3f03c4b888c1563da9daa3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_143"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 364
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7d90e63d956314da1196930783c3d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_144"
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 364
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e340f4980a47db4ab481ebcb65da451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_145"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 364
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4769b0b480d6e5e42b1ffba36facfcfd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_146"
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 364
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a9c2bb255ec664f82f9cb348c99fdc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_147"
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 364
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff3d83ab4a27b34bba2745defecdf20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_148"
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 364
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b1aa88f4545a74381da06d61c5711a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_149"
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 364
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a94f6c8d5103a4ba125e3d41eea0cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_150"
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 364
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df620218a914f8489c5ce0a38fb0eb8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_151"
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 364
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df8b5e20dd219b43a5d94728134e60d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_152"
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 364
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53cf2673f8b86084a9a5845b1ad6022e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_153"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 364
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e30646caeb02b42bf43bf3af266bea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_154"
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 364
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecea72314d198948a71c158067c3e50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_155"
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 364
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055894b2617668746b42bcd4341b642a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_156"
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 364
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a459a502e5ceb43ad6b61603a79a52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_157"
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 364
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e695e064726df9e49a38e6e38d51428e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_158"
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 364
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbed50267743f24e8ab69f50f9643d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_159"
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 364
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a417363846f3204eb388c871edf2765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_160"
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2545faef5d1eed443b302eba97042bdc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_161"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5994c2c42b9f4347bc7b3742dcc04b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_162"
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0896f9d30d5b41543bc93d73623431d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_163"
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2506d0409148fd14782b2b250088c24e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_164"
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa857022e1f961940b564ca1919e3729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_165"
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8cb5a9da79f3ed4294bf773ccaf22dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_166"
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c776ff92d34074fa6df90734a2c20b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_167"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea727d65e5516a5408fe0a8dd5cc61f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_168"
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3705732589e4847aabdb06c3d0439c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_169"
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63e89e346d776941962278e256dd880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_170"
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9375d19a0535a274f81d5b73da4b2b13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_171"
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd3a3fb17bbdfd46afb0e39d6ad3920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_172"
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e7e65a64da40c4db0dda49d21dd111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_173"
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba1611ac5fce4340b8ed9cc66758d6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_174"
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 260
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dea31310f1259644a31d05c588ce416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_175"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 260
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355a0492aa037eb44b3e87a5b9a7b771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_176"
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 260
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4134c7b236f13c5489a7c45389bcf40f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_177"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 260
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d14484088ac53478ade885b6f46ace
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_178"
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 260
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42d104c70b218b4687a8306c6bb4258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_179"
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 260
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946fd9bd65ddaf44ba76d0c454e3179f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_180"
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 260
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4114113d29dd349867bf0ea64a8cfb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_181"
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 260
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3779726be81ac44d80eaa30c6e7c595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_182"
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 260
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a8093c55cd6cd4bb09f812bb798a47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_183"
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 260
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0996bd678cfb04ba60ccd85671ac80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_184"
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 260
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c77547963c6e346a5bc0215c692e3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_185"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 260
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7f7f4ffb7cf3345b87a7197bafc7f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_186"
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 260
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9824b4f9661395c49bc7c499222cbcc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_187"
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 260
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0523d674d4d1f904797d337a5e1e7a9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_188"
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 260
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c11af5f9e18d49448661352b8ce92c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_189"
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 260
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55e6217354fa9c49b3c0bd313d1167b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_190"
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 260
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad62f4cfd73e2cd45960328db398c2d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_191"
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 208
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ec6221a80804a4a90fa716fef02591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_192"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 208
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550642530b403cf4d9b9d2d33ecfe4ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_193"
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 208
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69962b400aae1744e908cf2b71b6afce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_194"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 208
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3ea6c370a82e64596059dff245e81d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_195"
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 208
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb246e73ad7ffdd4883f910200d4c1ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_196"
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 208
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e403216d307f74f9fc099acd84b5e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_197"
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 208
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64e86d030a759d4b8d8b76969a9e2e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_198"
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 208
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216ce3ec7637dc64d83ad4c5ae6d4667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_199"
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 208
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a2e35dce13bcf4586e96c1c1621e78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_200"
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 208
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4f643a560c1244d9f8df217d5f6584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_201"
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 208
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56ee38834bab7e4d93622060a5befde
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_202"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 208
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a883510e5dbeed844b34d931cc19c074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_203"
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 208
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f483bbfaafb1546b452726348efe12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_204"
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 208
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b24c8f7f9755084cb8d0297324a28d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_205"
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 208
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b99457eb7dada44985379f2687353c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_206"
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 208
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0171eaa94065243ae8b0d44c1e5a8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_207"
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 208
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593e6e15a5c40db439aa6200856d463d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_208"
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 156
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6486b565cb498d4d88aa6be29c715b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_209"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 156
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70f1640835c58b49826258e3f1d2ffd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_210"
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 156
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431b1cf45a63d1a43871c98ce5ce2149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_211"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 156
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f67f43b0e07bc4194c937ac421874d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_212"
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 156
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670fc4d7ef693904e9aca0ec9800fd00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_213"
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 156
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe589f7299bb104caa5270aacb178bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_214"
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 156
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fdca1d8b46c2f42afda8829246f5e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_215"
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 156
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e4739d67e240b40974460262bd6b25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_216"
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 156
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0661040aea5e2d14e9c2b4dc323d2328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_217"
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 156
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b287df84b16a4eb47b4460f7ade8f753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_218"
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 156
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6598b7adef75064db7799fe0b437513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_219"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 156
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4acaa7489de0884492b69d34a97904d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_220"
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 156
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf70d8a20d98ecf4389c0ca921217e24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_221"
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 156
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c61fa5fba7c56642bd5a24f5c991ddc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_222"
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 156
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a0c72f22784b243ab352dcb604f41e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_223"
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 156
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5542abc1e9334c42827e937bd83551b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_224"
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 156
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812d18253a64b604aa388b07328e0589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_225"
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 104
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a3586e0103fb54ab4ac280df3bf408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_226"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 104
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6dbf1aa5c89464fae48b31952c9bae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_227"
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 104
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa37714129652534f8345e2acb2c6bb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_228"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 104
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e77bbba9f86f940887c2e53cfcc9b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_229"
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 104
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b923c4cd589eb343905d367b91caf95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_230"
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 104
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e501e9ae19862a40aba40fefd2a09ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_231"
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 104
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c34053119743f342afe083880dad9bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_232"
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 104
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d1cebe276d5164694573cd3f9b1c34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_233"
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 104
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1de1d4057bf01a43ac1ee0332908464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_234"
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 104
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7253bcf836801344e800d8733af0d177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_235"
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 104
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0fa5f3c42c29e46aa22d4fcfef6991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_236"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 104
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e84dddf115e3b8499984776f0703407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_237"
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 104
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad4ce13c5c8aab42a890b1dbcda5d2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_238"
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 104
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af8507218033ec4bb7d11ba883d4b1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_239"
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 104
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef6d8d885e782c4fac7d9d933c2ac1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_240"
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 104
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36647162c95a7446b34d006b96b6bba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_241"
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 104
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08686a2129c747a408fff29993b82ae2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_242"
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 104
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af76dd4bd0c15504e9faf42276e3a0ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_243"
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 52
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c943f6c4c1ccaa47a5ec18d9f659723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_244"
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 52
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfd18e9fde0847449a5b419da06f975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_245"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 52
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c805f48822a377a47a9a336f5b69c5f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_246"
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 52
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9c794fc1b4d71469cfbcaa06e69614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_247"
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 52
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa6a7fa7e6db0d40b92bcbb705601be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_248"
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 52
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b77b93ecff5404787b1b0392ea9c65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_249"
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 52
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2ad18489600b947a8a006c4a82a03b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_250"
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 52
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d61d426f45ee364d869913ce580b22e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_251"
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 52
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b2c2249b62baf4d8651e9628fef560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_252"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 52
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7feb00ac27a54f84bafc0ba0313ebec4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_253"
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 52
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831b7d495c7b393469b08159ae3c27ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_254"
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 52
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f500efa92bed3348b35fd7f6c750445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_255"
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 52
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102fd37d5451c43479a8d664a9e156cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_256"
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 52
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68db9c2e3d9608749a30770d40e8e248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_257"
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 52
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee4c878e5f40fd4eb14708ca76708ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_258"
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c3a18ba4a32ed438ac601eb096be76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_259"
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3695d7e48b68b05439356bb80bb2c3ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_260"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c180fe3ee53ed49b14b7eb060dac30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_261"
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4d8ed23c1d36e41add28fd5e4316e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cen\xE1rio Tileset v3 c_Sangria_262"
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5884325b7c3f2524d9e9f28e5364cc38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a5d6101f0175d5c48a116a377e473047
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

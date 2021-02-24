@@ -1,0 +1,26 @@
+inteface:
+primeiro plano e segundo plano - fundindo 
+primeiro plano - elementos interativos (cor)
+
+listar todos os elementos que precisam ser comunicados no jogo:
+
+o que precisa ser informado (hierarquia - o que é mais importante?):
+- saude
+- economia
+- evolução
+- dano
+
+Aos canais que eu tenho pra informar (redundancia= mais de um canal para informar):
+- animação
+- som
+- câmera
+- hud
+---------------------------
+
+
+
+
+level:
+- sequencia logica de apresentação dos elementos, uma razão. 
+
+
